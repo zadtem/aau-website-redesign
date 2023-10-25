@@ -1,0 +1,435 @@
+.macbook-air-1-child {
+  position: absolute;
+  top: 893px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1280px;
+  height: 499px;
+}
+.macbook-air-1-item {
+  position: absolute;
+  top: 396px;
+  left: -36px;
+  border-radius: 21px;
+  background-color: var(--color-steelblue);
+  width: 72px;
+  height: 455px;
+}
+.image-1-icon,
+.image-3-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-1-icon {
+  top: 18px;
+  right: -29px;
+  width: 1309px;
+  height: 224px;
+}
+.image-3-icon {
+  top: 942px;
+  left: 0;
+  border-radius: var(--br-lgi);
+  width: 940px;
+  height: 312px;
+}
+.macbook-air-1-inner {
+  position: absolute;
+  top: 1219px;
+  left: -50px;
+  background-color: var(--color-steelblue);
+  width: 784px;
+  height: 96px;
+}
+.black-lion-specialized {
+  position: absolute;
+  top: 1222px;
+  left: 6px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-whitesmoke);
+  display: inline-block;
+  width: 789px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 397px;
+  left: 80px;
+  border-radius: var(--br-lgi);
+  width: 1284px;
+  height: 467px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 822px;
+  left: 157px;
+  background-color: var(--color-steelblue);
+  width: 1182px;
+  height: 71px;
+}
+.aau-and-hse {
+  position: absolute;
+  top: 832px;
+  left: 178px;
+  font-size: 32px;
+  font-weight: 600;
+  color: var(--color-whitesmoke);
+  text-decoration: none;
+}
+.to-its-kind {
+  margin: 0;
+}
+.black-lion-specialized-container {
+  position: absolute;
+  top: 953px;
+  left: 792px;
+  font-size: var(--font-size-11xl);
+  line-height: 113.5%;
+  display: inline-block;
+  color: var(--color-black);
+  width: 481px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 1331px;
+  left: 400px;
+  border-radius: 25px;
+  width: 880px;
+  height: 395px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 1658px;
+  left: 437px;
+  width: 905px;
+  height: 99px;
+}
+.samuel-kifle-phd,
+.scientific-recommendations-and {
+  position: absolute;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+}
+.scientific-recommendations-and {
+  top: 1669px;
+  left: 456px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-white);
+  width: 868px;
+  text-decoration: none;
+}
+.samuel-kifle-phd {
+  top: 1353px;
+  left: 19px;
+  line-height: 113.5%;
+  color: var(--color-black);
+  width: 364px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 1815px;
+  left: 37px;
+  border-radius: 32px;
+  width: 1205px;
+  height: 438px;
+  object-fit: cover;
+}
+.macbook-air-1-child1 {
+  position: absolute;
+  top: 2201px;
+  left: 95px;
+  background-color: var(--color-steelblue);
+  width: 1089px;
+  height: 80px;
+}
+.macbook-air-1-child2 {
+  position: absolute;
+  top: 2392px;
+  left: 0;
+  background-color: rgba(210, 210, 210, 0.7);
+  width: 1280px;
+  height: 484px;
+}
+.students {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.emergency-services-wrapper,
+.quick-links-wrapper,
+.students-wrapper,
+.systems-wrapper {
+  position: absolute;
+  top: 2432px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-steelblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs) var(--padding-3xl);
+  color: var(--color-white);
+}
+.students-wrapper {
+  left: 41px;
+  width: 169px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.emergency-services-wrapper,
+.quick-links-wrapper,
+.systems-wrapper {
+  left: 331px;
+}
+.emergency-services-wrapper,
+.systems-wrapper {
+  left: 620px;
+}
+.systems-wrapper {
+  left: 1005px;
+  width: 169px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.ambulance-number,
+.career-development,
+.mail,
+.staff-portal {
+  position: absolute;
+  top: 2507px;
+  left: 41px;
+  text-transform: lowercase;
+}
+.ambulance-number,
+.mail,
+.staff-portal {
+  left: 351px;
+}
+.ambulance-number,
+.staff-portal {
+  top: 2499px;
+  left: 646px;
+}
+.staff-portal {
+  left: 1027px;
+}
+.e-learning,
+.exam-services,
+.housing-and-dining,
+.student-medical-services {
+  position: absolute;
+  top: 2549px;
+  left: 41px;
+  text-transform: lowercase;
+}
+.e-learning,
+.exam-services,
+.student-medical-services {
+  left: 351px;
+}
+.exam-services,
+.student-medical-services {
+  top: 2541px;
+  left: 646px;
+}
+.exam-services {
+  left: 1027px;
+}
+.art-and-culture,
+.portal,
+.recreation-and-sports {
+  position: absolute;
+  top: 2591px;
+  left: 42px;
+  text-transform: lowercase;
+}
+.portal,
+.recreation-and-sports {
+  left: 352px;
+}
+.recreation-and-sports {
+  top: 2633px;
+  left: 41px;
+}
+.colleges,
+.cost-sharing,
+.female-students,
+.staff-profile {
+  position: absolute;
+  top: 2633px;
+  left: 351px;
+  text-transform: lowercase;
+}
+.colleges,
+.cost-sharing,
+.female-students {
+  top: 2675px;
+  left: 41px;
+}
+.colleges,
+.female-students {
+  left: 351px;
+}
+.female-students {
+  top: 2717px;
+  left: 41px;
+}
+.research-institutes,
+.student-activities,
+.student-life {
+  position: absolute;
+  top: 2717px;
+  left: 351px;
+  text-transform: lowercase;
+}
+.student-activities,
+.student-life {
+  top: 2759px;
+  left: 41px;
+}
+.student-activities {
+  top: 2801px;
+  left: 42px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: calc(50% - 43.5px);
+  left: 38px;
+  width: 936px;
+  height: 88px;
+}
+.group-item {
+  top: calc(50% - 45.2px);
+  left: 162px;
+  width: 66.7px;
+  height: 63.7px;
+}
+.group-child1,
+.group-child2,
+.group-inner,
+.line-icon {
+  position: absolute;
+  top: calc(50% - 43.2px);
+  left: 333px;
+  width: 66.7px;
+  height: 63.7px;
+}
+.group-child1,
+.group-child2,
+.line-icon {
+  left: 504px;
+}
+.group-child1,
+.group-child2 {
+  top: calc(50% - 46.2px);
+  left: 675px;
+}
+.group-child2 {
+  top: calc(50% - 44.2px);
+  left: 858px;
+  width: 94.7px;
+  height: 89.7px;
+}
+.about,
+.academics,
+.admission,
+.home,
+.research {
+  position: absolute;
+  top: calc(50% - 17.5px);
+  left: 87px;
+}
+.about,
+.academics,
+.admission,
+.research {
+  left: 225px;
+}
+.about,
+.admission,
+.research {
+  left: 399px;
+}
+.about,
+.research {
+  left: 569px;
+}
+.about {
+  left: 774px;
+}
+.addis-ababa-university,
+.vector-parent {
+  position: absolute;
+  color: var(--color-white);
+}
+.vector-parent {
+  top: calc(50% - 1179px);
+  left: -38px;
+  width: 974px;
+  height: 91px;
+  font-family: var(--font-inter);
+}
+.addis-ababa-university {
+  top: 2218px;
+  left: 109px;
+  font-size: 27px;
+  text-transform: uppercase;
+  font-weight: 600;
+  text-decoration: none;
+}
+.vector-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 174px;
+  height: 34.5px;
+}
+.group-child3,
+.portal1 {
+  position: absolute;
+  top: -0.4px;
+  right: 29.6px;
+  width: 36.7px;
+  height: 34.7px;
+}
+.portal1 {
+  top: 2px;
+  right: 55px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  width: 83px;
+  height: 22px;
+}
+.icon-search-normal-1,
+.vector-group {
+  position: absolute;
+  top: 3px;
+  right: 11.3px;
+  width: 25.7px;
+  height: 25.7px;
+}
+.vector-group {
+  top: 258px;
+  right: 0;
+  width: 174px;
+  height: 34.5px;
+  color: var(--color-white);
+}
+.macbook-air-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2872px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-steelblue);
+  font-family: var(--font-poppins);
+}
